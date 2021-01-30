@@ -2,6 +2,9 @@
 
 Add Acrobat Help Menu
 
+詳しくはこちら
+https://force4u.cocolog-nifty.com/skywalker/2021/01/post-18719b.html
+
 Adobe ReaderDC　Adobe Acrobat DC　用
 
 （下位バージョンでは動作確認していないだけですが）
