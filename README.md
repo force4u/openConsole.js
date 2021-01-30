@@ -8,7 +8,7 @@ Adobe ReaderDC　Adobe Acrobat DC　用
 /Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Resources/JavaScripts
 
 ▼ローカルドメイン
-/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
+/Library/Application Support/Adobe/Acrobat/DC/JavaScripts 
 
 ▼ユーザードメイン
 /Users/ユーザー名/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
